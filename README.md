@@ -20,8 +20,6 @@ I am following a structured learning path outlined in a comprehensive [YouTube s
 ## Credit
 
 You can check out the associated YouTube series and GitHub repository here:
-
-  `Python for Data Science  - Nicholas Renotte`  
   
 - [YouTube Series](https://www.youtube.com/watch?v=yGN28LY5VuA&list=PPSV)
 - [GitHub Repository](https://github.com/nicknochnack/PythonForDataScience)
