@@ -4,7 +4,7 @@ Welcome to the **Master-Python** repository! This repository documents my journe
 
 ## Learning Path
 
-I am following a structured learning path outlined in a comprehensive YouTube series[Link](https://www.youtube.com/watch?v=yGN28LY5VuA&list=PPSV) on "Python for Data Science". While some of the content here is my own, the learning path and structure are inspired by this excellent series.
+I am following a structured learning path outlined in a comprehensive [YouTube series](https://www.youtube.com/watch?v=yGN28LY5VuA&list=PPSV) on "Python for Data Science". While some of the content here is my own, the learning path and structure are inspired by this excellent series.
 
 ## Credit
 
