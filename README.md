@@ -6,13 +6,11 @@ Welcome to the **Master-Python** repository! This repository documents my journe
 
 This repository is organized into the following sections:
 
-1. **Introduction to Python**: Basics of Python, including variables, data types, and basic operations.
-2. **Control Flow**: Conditionals, loops, and logical operators.
-3. **Functions**: Writing reusable code with functions, including lambda functions and higher-order functions.
-4. **Data Structures**: Lists, tuples, sets, and dictionaries.
-5. **Object-Oriented Programming**: Classes, inheritance, polymorphism, encapsulation, and more.
-6. **Advanced Topics**: Modules, file handling, exceptions, decorators, generators, and context managers.
-7. **Introduction to Machine Learning**: Basics of machine learning, including popular libraries and basic algorithms.
+1. **Part 1**: Basics of Python, including variables, data types, and basic operations.
+2. **Part 2**: Conditionals, loops, and logical operators.
+3. **Part 3**: Writing reusable code with functions, including lambda functions and higher-order functions.
+4. **Part 4**: Python Classes and Inheritance.
+
 
 
 ## Learning Path
@@ -24,3 +22,12 @@ I am following a structured learning path outlined in a comprehensive [YouTube s
 You can check out the associated YouTube series and GitHub repository here:
 - [YouTube Series](https://www.youtube.com/watch?v=yGN28LY5VuA&list=PPSV)
 - [GitHub Repository](https://github.com/nicknochnack/PythonForDataScience)
+
+## How to Use This Repository
+
+Feel free to browse through the Jupyter notebooks and Python scripts. Each section contains explanatory comments, example code, and exercises to practice.
+
+To get started:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/Master-Python.git
