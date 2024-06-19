@@ -6,10 +6,10 @@ Welcome to the **Master-Python** repository! This repository documents my journe
 
 This repository is organized into the following sections:
 
-1. **Part 1**: Basics of Python, including variables, data types, and basic operations.
-2. **Part 2**: Conditionals, loops, and logical operators.
-3. **Part 3**: Writing reusable code with functions, including lambda functions and higher-order functions.
-4. **Part 4**: Python Classes and Inheritance.
+- **Part 1**: Basics of Python, including variables, data types, and basic operations.
+- **Part 2**: Conditionals, loops, and logical operators.
+- **Part 3**: Writing reusable code with functions, including lambda functions and higher-order functions.
+- **Part 4**: Python Classes and Inheritance.
 
 
 
