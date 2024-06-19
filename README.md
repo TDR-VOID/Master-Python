@@ -18,8 +18,7 @@ This repository is organized into the following sections:
 I am following a structured learning path outlined in a comprehensive [YouTube series](https://www.youtube.com/watch?v=yGN28LY5VuA&list=PPSV) on "Python for Data Science". While some of the content here is my own, the learning path and structure are inspired by this excellent series.
 
 ## Credit
-
-You can check out the associated YouTube series and GitHub repository here:
+Special thanks to the creator of the YouTube series and GitHub repository that inspired this learning path. You can check out the associated YouTube series and GitHub repository here:
   
 - [YouTube Series](https://www.youtube.com/watch?v=yGN28LY5VuA&list=PPSV)
 - [GitHub Repository](https://github.com/nicknochnack/PythonForDataScience)
