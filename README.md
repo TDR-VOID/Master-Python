@@ -8,6 +8,8 @@ I am following a structured learning path outlined in a comprehensive YouTube se
 
 ## Credit
 
-You can check out his YouTube series and GitHub repository here:
+Certainly! Here's a revised version:
+
+You can check out the associated YouTube series and GitHub repository here:
 - [YouTube Series](https://www.youtube.com/watch?v=yGN28LY5VuA&list=PPSV)
 - [GitHub Repository](https://github.com/nicknochnack/PythonForDataScience)
