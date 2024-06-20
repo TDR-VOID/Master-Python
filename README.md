@@ -10,7 +10,7 @@ This repository is organized into the following sections:
 - **Part 2**: Conditionals, loops, and logical operators.
 - **Part 3**: Writing reusable code with functions, including lambda functions and higher-order functions.
 - **Part 4**: Python Classes and Inheritance.
-- **Part 5**: Python packages and File handling
+- **Part 5**: Python packages, File handling and Error Handling.
 
 
 
