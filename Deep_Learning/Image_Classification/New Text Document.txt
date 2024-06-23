@@ -1,0 +1,13 @@
+create enviornmnet
+python -m venv <enviornment_name>
+
+Activate environment
+.\<envirinment_name>\Scripts\activate
+
+Install ipykernal
+pip install ipykernel
+
+python -m ipykernel install --name=<enviornment_name>
+
+check the all install kernels
+jupyter kernelspec list
