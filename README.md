@@ -35,6 +35,6 @@ To get started:
    pip install notebook
    ```
 3. Run the Notebook: Use your preferred IDE to open and run the project. If you are using Jupyter Notebook, you can open the notebook file:
-```bash
-jupyter notebook
-```
+   ```bash
+   jupyter notebook
+   ```
