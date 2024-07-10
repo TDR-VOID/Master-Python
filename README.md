@@ -1,6 +1,6 @@
 # Master-Python
 
-Welcome to the **Master-Python** repository! This repository documents my journey to mastering Python, from the basics to advanced concepts, and includes my exploration of Machine Learning.
+Welcome to the **Master-Python** repository. This repository documents my journey to mastering Python, from the basics to advanced concepts, and includes my exploration of Machine Learning.
 
 ## Learning Path
 
