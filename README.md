@@ -28,3 +28,13 @@ To get started:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/Master-Python.git
+   ```
+
+2. Install Jupyter Notebook: If you don't have Jupyter Notebook installed, you can install it using pip.
+   ```bash
+   pip install notebook
+   ```
+3. Run the Notebook: Use your preferred IDE to open and run the project. If you are using Jupyter Notebook, you can open the notebook file:
+```bash
+jupyter notebook
+```
