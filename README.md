@@ -2,7 +2,9 @@
 
 Welcome to the **Master-Python** repository! This repository documents my journey to mastering Python, from the basics to advanced concepts, and includes my exploration of Machine Learning.
 
-## Repository Overview
+## Learning Path
+
+### Repository Overview
 
 This repository is organized into the following sections:
 
@@ -11,12 +13,6 @@ This repository is organized into the following sections:
 - **Part 3**: Writing reusable code with functions, including lambda functions and higher-order functions.
 - **Part 4**: Python Classes and Inheritance.
 - **Part 5**: Python packages, File handling and Error Handling.
-
-
-
-## Learning Path
-
-I am following a structured learning path outlined in a comprehensive YouTube series on "Python for Data Science". While some of the content here is my own, the learning path and structure are inspired by this excellent series.
 
 ## Credit
 Special thanks to the creator of the YouTube series and GitHub repository that inspired this learning path. You can check out the associated YouTube series and GitHub repository here:
